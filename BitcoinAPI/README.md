@@ -1,0 +1,2 @@
+# BitcoinAPI
+minecraft BitcoinAPI Plugin

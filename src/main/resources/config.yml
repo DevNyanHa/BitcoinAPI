@@ -1,0 +1,4 @@
+country-list:
+  - 'usd'
+  - 'krw'
+api-interval: 60

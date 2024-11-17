@@ -1,0 +1,6 @@
+name: BitcoinAPI
+version: '1.0.0'
+main: DevNyanha.bitcoinAPI.BitcoinAPI
+api-version: '1.20'
+
+depend: ["PlaceholderAPI"]
